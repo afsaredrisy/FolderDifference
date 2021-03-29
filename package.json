@@ -15,7 +15,7 @@
 		"Folder change tracker",
 		"compare folders"
 	],
-	"author": "Afsa [ @afsaredrisy ]",
+	"author": "Afsar Ahamad [ @afsaredrisy ]",
 	"license": "MIT",
 	"homepage": "https://github.com/aadarshp31/diffTool-CLI#readme",
 	"dependencies": {
