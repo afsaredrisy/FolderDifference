@@ -1,0 +1,26 @@
+{
+	"name": "Folder_Difference",
+	"version": "1.0.0",
+	"description": "This application as assignment, To find the difference between folders.",
+	"main": "difference.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/afsaredrisy/FolderDifference.git"
+	},
+	"keywords": [
+		"difference tool",
+		"Folder change tracker",
+		"compare folders"
+	],
+	"author": "Afsa [ @afsaredrisy ]",
+	"license": "MIT",
+	"homepage": "https://github.com/aadarshp31/diffTool-CLI#readme",
+	"dependencies": {
+		"colors": "^1.4.0",
+		"diff": "^5.0.0",
+		"jest": "^26.6.3"
+	}
+}
